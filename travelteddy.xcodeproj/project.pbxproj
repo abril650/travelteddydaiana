@@ -11,6 +11,19 @@
 		BDDF99972A670282004914E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99962A670282004914E6 /* ContentView.swift */; };
 		BDDF99992A67028F004914E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDDF99982A67028F004914E6 /* Assets.xcassets */; };
 		BDDF999C2A67028F004914E6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDDF999B2A67028F004914E6 /* Preview Assets.xcassets */; };
+		BDDF99A32A6713AC004914E6 /* CountriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99A22A6713AC004914E6 /* CountriesView.swift */; };
+		BDDF99A52A6714A2004914E6 /* MexicoInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99A42A6714A2004914E6 /* MexicoInfoView.swift */; };
+		BDDF99A72A6714B3004914E6 /* IndiaInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99A62A6714B3004914E6 /* IndiaInfoView.swift */; };
+		BDDF99A92A6716B1004914E6 /* MexicoCultureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99A82A6716B1004914E6 /* MexicoCultureView.swift */; };
+		BDDF99AB2A6716D9004914E6 /* MexicoArtView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99AA2A6716D9004914E6 /* MexicoArtView.swift */; };
+		BDDF99AD2A67171A004914E6 /* MexicoNormsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99AC2A67171A004914E6 /* MexicoNormsView.swift */; };
+		BDDF99AF2A67172F004914E6 /* MexicoFoodsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99AE2A67172F004914E6 /* MexicoFoodsView.swift */; };
+		BDDF99B12A671741004914E6 /* MexicoVisitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99B02A671741004914E6 /* MexicoVisitView.swift */; };
+		BDDF99B32A671752004914E6 /* IndiaCultureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99B22A671752004914E6 /* IndiaCultureView.swift */; };
+		BDDF99B52A67177F004914E6 /* IndiaArtView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99B42A67177F004914E6 /* IndiaArtView.swift */; };
+		BDDF99B72A671795004914E6 /* IndiaNormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99B62A671795004914E6 /* IndiaNormView.swift */; };
+		BDDF99B92A6717B1004914E6 /* IndiaFoodsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99B82A6717B1004914E6 /* IndiaFoodsView.swift */; };
+		BDDF99BB2A6717CE004914E6 /* IndiaVistsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99BA2A6717CE004914E6 /* IndiaVistsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		BDDF99962A670282004914E6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDDF99982A67028F004914E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDDF999B2A67028F004914E6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDDF99A22A6713AC004914E6 /* CountriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesView.swift; sourceTree = "<group>"; };
+		BDDF99A42A6714A2004914E6 /* MexicoInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MexicoInfoView.swift; sourceTree = "<group>"; };
+		BDDF99A62A6714B3004914E6 /* IndiaInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndiaInfoView.swift; sourceTree = "<group>"; };
+		BDDF99A82A6716B1004914E6 /* MexicoCultureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MexicoCultureView.swift; sourceTree = "<group>"; };
+		BDDF99AA2A6716D9004914E6 /* MexicoArtView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MexicoArtView.swift; sourceTree = "<group>"; };
+		BDDF99AC2A67171A004914E6 /* MexicoNormsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MexicoNormsView.swift; sourceTree = "<group>"; };
+		BDDF99AE2A67172F004914E6 /* MexicoFoodsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MexicoFoodsView.swift; sourceTree = "<group>"; };
+		BDDF99B02A671741004914E6 /* MexicoVisitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MexicoVisitView.swift; sourceTree = "<group>"; };
+		BDDF99B22A671752004914E6 /* IndiaCultureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndiaCultureView.swift; sourceTree = "<group>"; };
+		BDDF99B42A67177F004914E6 /* IndiaArtView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndiaArtView.swift; sourceTree = "<group>"; };
+		BDDF99B62A671795004914E6 /* IndiaNormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndiaNormView.swift; sourceTree = "<group>"; };
+		BDDF99B82A6717B1004914E6 /* IndiaFoodsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndiaFoodsView.swift; sourceTree = "<group>"; };
+		BDDF99BA2A6717CE004914E6 /* IndiaVistsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndiaVistsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +79,19 @@
 			children = (
 				BDDF99942A670282004914E6 /* travelteddyApp.swift */,
 				BDDF99962A670282004914E6 /* ContentView.swift */,
+				BDDF99A22A6713AC004914E6 /* CountriesView.swift */,
+				BDDF99A42A6714A2004914E6 /* MexicoInfoView.swift */,
+				BDDF99A82A6716B1004914E6 /* MexicoCultureView.swift */,
+				BDDF99AA2A6716D9004914E6 /* MexicoArtView.swift */,
+				BDDF99AC2A67171A004914E6 /* MexicoNormsView.swift */,
+				BDDF99AE2A67172F004914E6 /* MexicoFoodsView.swift */,
+				BDDF99B02A671741004914E6 /* MexicoVisitView.swift */,
+				BDDF99B22A671752004914E6 /* IndiaCultureView.swift */,
+				BDDF99B42A67177F004914E6 /* IndiaArtView.swift */,
+				BDDF99B62A671795004914E6 /* IndiaNormView.swift */,
+				BDDF99B82A6717B1004914E6 /* IndiaFoodsView.swift */,
+				BDDF99BA2A6717CE004914E6 /* IndiaVistsView.swift */,
+				BDDF99A62A6714B3004914E6 /* IndiaInfoView.swift */,
 				BDDF99982A67028F004914E6 /* Assets.xcassets */,
 				BDDF999A2A67028F004914E6 /* Preview Content */,
 			);
@@ -137,8 +176,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDDF99B52A67177F004914E6 /* IndiaArtView.swift in Sources */,
+				BDDF99B72A671795004914E6 /* IndiaNormView.swift in Sources */,
 				BDDF99972A670282004914E6 /* ContentView.swift in Sources */,
 				BDDF99952A670282004914E6 /* travelteddyApp.swift in Sources */,
+				BDDF99AF2A67172F004914E6 /* MexicoFoodsView.swift in Sources */,
+				BDDF99B12A671741004914E6 /* MexicoVisitView.swift in Sources */,
+				BDDF99A32A6713AC004914E6 /* CountriesView.swift in Sources */,
+				BDDF99A52A6714A2004914E6 /* MexicoInfoView.swift in Sources */,
+				BDDF99AB2A6716D9004914E6 /* MexicoArtView.swift in Sources */,
+				BDDF99A92A6716B1004914E6 /* MexicoCultureView.swift in Sources */,
+				BDDF99B92A6717B1004914E6 /* IndiaFoodsView.swift in Sources */,
+				BDDF99BB2A6717CE004914E6 /* IndiaVistsView.swift in Sources */,
+				BDDF99A72A6714B3004914E6 /* IndiaInfoView.swift in Sources */,
+				BDDF99AD2A67171A004914E6 /* MexicoNormsView.swift in Sources */,
+				BDDF99B32A671752004914E6 /* IndiaCultureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
