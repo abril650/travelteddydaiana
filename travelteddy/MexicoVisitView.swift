@@ -8,11 +8,34 @@
 import SwiftUI
 
 struct MexicoVisitView: View {
+   
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-        ZStack {
-            Image("MEXICO")
-        }
+        NavigationStack{
+            ZStack {
+                Image("MEXICO")
+                NavigationLink(destination: Swift()) {
+                    Text("Swift")
+                }
+            }
+            TextField("Mexico 3 places info", text: )
+                .padding()
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                    }
     }
    
 

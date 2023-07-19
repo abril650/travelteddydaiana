@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD7F8D722A674DF300759679 /* Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7F8D712A674DF300759679 /* Swift.swift */; };
 		BDDF99952A670282004914E6 /* travelteddyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99942A670282004914E6 /* travelteddyApp.swift */; };
 		BDDF99972A670282004914E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDF99962A670282004914E6 /* ContentView.swift */; };
 		BDDF99992A67028F004914E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDDF99982A67028F004914E6 /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD7F8D712A674DF300759679 /* Swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift.swift; sourceTree = "<group>"; };
 		BDDF99912A670282004914E6 /* travelteddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = travelteddy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDDF99942A670282004914E6 /* travelteddyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = travelteddyApp.swift; sourceTree = "<group>"; };
 		BDDF99962A670282004914E6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				BDDF99AC2A67171A004914E6 /* MexicoNormsView.swift */,
 				BDDF99AE2A67172F004914E6 /* MexicoFoodsView.swift */,
 				BDDF99B02A671741004914E6 /* MexicoVisitView.swift */,
+				BD7F8D712A674DF300759679 /* Swift.swift */,
 				BDDF99B22A671752004914E6 /* IndiaCultureView.swift */,
 				BDDF99B42A67177F004914E6 /* IndiaArtView.swift */,
 				BDDF99B62A671795004914E6 /* IndiaNormView.swift */,
@@ -179,6 +182,7 @@
 				BDDF99B52A67177F004914E6 /* IndiaArtView.swift in Sources */,
 				BDDF99B72A671795004914E6 /* IndiaNormView.swift in Sources */,
 				BDDF99972A670282004914E6 /* ContentView.swift in Sources */,
+				BD7F8D722A674DF300759679 /* Swift.swift in Sources */,
 				BDDF99952A670282004914E6 /* travelteddyApp.swift in Sources */,
 				BDDF99AF2A67172F004914E6 /* MexicoFoodsView.swift in Sources */,
 				BDDF99B12A671741004914E6 /* MexicoVisitView.swift in Sources */,
